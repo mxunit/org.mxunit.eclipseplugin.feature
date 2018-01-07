@@ -2,15 +2,15 @@
 <feature
       id="org.mxunit.eclipseplugin.feature"
       label="MXUnit Test Runner"
-      version="1.5.0.qualifier"
+      version="1.5.1.qualifier"
       provider-name="MXUnit">
 
    <description url="http://www.mxunit.org">
       Eclipse Plugin for MXUnit Unit Testing Framework for ColdFusion.
    </description>
 
-   <copyright url="http://mxunit.org">
-      http://mxunit.org
+   <copyright url="http://cfeclipse.org/mxunit">
+      http://cfeclipse.org/mxunit
    </copyright>
 
    <license url="http://www.eclipse.org/legal/epl-v10.html">
@@ -103,7 +103,7 @@ This Agreement is governed by the laws of the State of New York and the intellec
    </license>
 
    <url>
-      <update label="MXUnit Eclipse Plugin Update Site" url="http://mxunit.org/update"/>
+      <update label="MXUnit Eclipse Plugin Update Site" url="http://cfeclipse.org/mxunit/update"/>
    </url>
 
    <plugin
